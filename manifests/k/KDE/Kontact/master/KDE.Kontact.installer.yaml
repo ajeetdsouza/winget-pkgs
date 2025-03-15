@@ -9,14 +9,14 @@ ProductCode: Kontact
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1689-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: F1E0D9D637DA69A560E657F8F63AB03C6624C05EC3232D73F692DF85093EB804
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1722-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 0A56EA74D723C90907CA8BB6E6D574E5387F50B85517FFB41750A7BAD3DB8EEA
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1689-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: F1E0D9D637DA69A560E657F8F63AB03C6624C05EC3232D73F692DF85093EB804
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1722-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 0A56EA74D723C90907CA8BB6E6D574E5387F50B85517FFB41750A7BAD3DB8EEA
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
